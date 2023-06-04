@@ -13,5 +13,5 @@ Now, Download LightAddons from this [GitHub Releases Page](https://github.com/qu
 
 
 
-:confetti_ball: Congrats! Now you installed LightAddons perfectly. Note that LightAddons is currently not released, during the Alpha & Beta Version, there will be no Auto-Updater or Auto-Update-Notifier, so check the Github regulary or join the **[Discord](https://discord.gg/GUC3mBA49K)**.
+Congrats! You've installed LightAddons perfectly. Note that LightAddons is currently not released, during the Alpha & Beta Version, there will be no Auto-Updater or Auto-Update-Notifier, so check the Github regulary or join the **[Discord](https://discord.gg/GUC3mBA49K)**.
 
