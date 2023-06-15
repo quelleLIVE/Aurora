@@ -1,7 +1,7 @@
 <h3 align="center">Light Addons</h3>
 <p align="center">Hypixel Skyblock Utilities</p>
 
-## 📝 Installation
+## Installation
 
 1st Download **[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)** if you haven't yet.
 > Clients as Feather Client also work.
